@@ -1,1 +1,2 @@
 this is file3.txt
+newline added in gitHub
